@@ -1,0 +1,59 @@
+body{
+    background-image: url(airplane3.jpg);
+}
+/* *{
+    box-sizing: border-box;
+} */
+/* .rectangle14
+{
+    text-align: center;
+    margin-top: 100px;
+    position: relative;
+}
+.car
+{
+    position: absolute;
+    
+    margin-left: 300px;
+    top: 300px;
+}
+.none{
+    height: 30vh;
+    width: 50vw;
+}
+.lounge
+{
+    position: absolute;
+margin-left: 900px;
+top: 300px;
+} */
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  
+  text-align: center;
+  /* background-color: #f1f1f1; */
+  float: left;
+  width: 25%;
+    margin-top: 10vw;
+  margin-right: 8vw;
+  background-color: black;
+color: white;
+opacity: 0.8;
+  
+    
+}
+.card:hover{
+    transition: 0.5s;
+    transform:scale(1.15,1.15);
+    cursor: pointer;
+}
+/* .btn-btn{
+    background-color: #facd06;
+     */
+.kushi{
+    background-color: black;
+    opacity: 0.8;
+    border-radius: 0mm 0mm 25mm 25mm;
+    color: blanchedalmond;
+    margin-top: -3vw;
+}

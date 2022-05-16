@@ -1,0 +1,67 @@
+body{
+    background-image: url(airplane3.jpg);
+}
+/* *{
+    font-family: 'Mochiy Pop P One', sans-serif;
+} */
+
+.success_message
+{
+    position: absolute;
+    width: 685px;
+    height: 226px;
+    left: 400px;
+    top: 300px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 96px;
+    line-height: 112px;
+    text-align: center;
+    
+    color: #FFFFFF;   
+   
+
+}
+.border1
+{
+    position: absolute;
+width: 884px;
+height: 489px;
+left: 300px;
+top: 150px;
+
+background: rgba(10, 34, 255, 0.59);
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+}
+
+.border2
+{
+    position: absolute;
+    width: 795px;
+    height: 400px;
+    left: 350px;
+    top: 200px;
+    
+    background: #242424;
+    
+}
+
+.continue
+{
+    background-color: #ffffff;
+    border: 2px solid #0af50a;
+    color: rgb(2, 2, 2);
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+}
